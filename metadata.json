@@ -1,0 +1,10 @@
+{
+  "name": "Share Location",
+  "description": "A simple and secure location sharing web application with Supabase backend.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
